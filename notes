@@ -1,0 +1,12 @@
+			GIT AND GITHUB 
+
+. so first lets understand what is a version control system , a version control 
+is a system that records changes to a file or a set of files over time 
+so that you can recall specific versions later . these versions are coderded in a repo 
+
+. we have local , centralized and distributed version control system 
+. a repository is a directory or storage space where your projects can live . it can be local to a folder on your computer 
+or it can be storage space online host (such as github) you can keep 
+files ,text files , images files inside a repo 
+. git is a a distributed version control system that is commonly used 
+. 
